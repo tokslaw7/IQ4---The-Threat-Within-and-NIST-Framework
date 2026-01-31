@@ -7,3 +7,5 @@ attacks to industry leaders. Your individual and team efforts, representing mult
 
 cybersecurity roles based on the NICE framework, provided insight and expertise to
 increase your preparedness for the cybersecurity workforce.
+
+![Alt text for the image](Users/taborg/Downloads/iQ4_NIST.pdf)
